@@ -9,18 +9,12 @@ In this project, I developed a financial data processing and visualization platf
 
 # Architecture
 
-There are currently 3 tabs in the webpage:
+There are currently 1 tabs in the webpage:
 
 - ***Stock: Streaming & Fundamental*** 
   - Single stock's candlestick plot, basic company & financial information;
   - Realtime S&P500 price during trading hours (*fake date* during non-trading hours)
-- ***Stock: Comparison***
-  - 2 user-selected stocks' price, and their statstical summay and correlation
-  - 5,10,30-day moving average of adjusted close price
-- ***Economy***
-  - Geomap of various economy data by state
-  - 4 economy indicators nationwide for comparison
-  - The most recent market news 
+
 
 &nbsp;
 
@@ -37,11 +31,4 @@ Please check each tab's screenshot:
 <img src="https://github.com/nancyyanyu/kafka_stock/blob/master/images/tab1.gif" width="800" />
 
 
-**Tab 2:**
 
-<img src="https://github.com/nancyyanyu/kafka_stock/blob/master/images/tab2.gif" width="800" />
-
-
-**Tab 3:**
-
-<img src="https://github.com/nancyyanyu/kafka_stock/blob/master/images/tab3.gif" width="800" />
