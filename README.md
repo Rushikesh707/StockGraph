@@ -1,4 +1,4 @@
-# Realtime Financial Market Data Visualization and Analysis
+# Real Time Analysis of market segment
 
 
 # Introduction
