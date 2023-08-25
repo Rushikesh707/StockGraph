@@ -21,7 +21,7 @@ There are currently 1 tabs in the webpage:
 
 Here is the architecture of the platform. Note: the link in the image below is ***no longer available***.
 
-<img src="https://github.com/nancyyanyu/kafka_stock/blob/master/images/kafka_stock.png" width="900" />
+<img src="https://github.com/Rushikesh707/StockGraph/blob/main/kafka_stock.png" width="900" />
 
 Please check each tab's screenshot:
 
